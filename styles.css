@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.btn{
+	background-color: red;
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	padding: 20px 15px;
+	border-radius: 12px;
+	border: none;
+}
